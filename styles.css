@@ -3,16 +3,16 @@ body {
 }
 
 #colors-section {
-    border: solid;
+    border: 3px solid blue;
     margin-bottom: 10px;
 }
 
 #font-section {
-    border: solid;
+    border: 3px solid blue;
     margin-bottom: 10px;
 }
 
 #text-styles {
-    border: solid;
+    border: 3px solid blue;
     margin-bottom: 10px;
 }
