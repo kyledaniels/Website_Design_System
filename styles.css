@@ -23,9 +23,33 @@
 
 
 #font-section {
+    margin: auto;
+    width:90%;
     border: 3px solid blue;
+    padding: 30px;
+    margin-bottom:10px;
+}
+
+#font-section h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#source-code{
+    display: block;
     margin-bottom: 10px;
 }
+
+#nunito-sans{
+    display: block;
+    margin-bottom: 10px;
+} 
+
+#poppins{
+    display: block;
+    margin-bottom: 10px;
+} 
+
+
 
 #text-styles {
     border: 3px solid blue;
