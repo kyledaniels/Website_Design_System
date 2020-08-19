@@ -2,6 +2,10 @@
     background-color: antiquewhite;
 } */
 
+#heading{
+   text-align: center;
+}
+
 #section-headings{
     margin-bottom: 40px ;
 }
