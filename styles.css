@@ -21,67 +21,12 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-
-#font-section {
-    margin: auto;
-    width:90%;
-    border: 3px solid blue;
-    padding: 30px;
-    margin-bottom:10px;
-}
-
-#font-section h2 {
-    font-family: 'Courier New', Courier, monospace;
-}
-
-#source-code{
-    display: block;
-    margin-bottom: 10px;
-    font-size: larger;
-}
-
-#source-codebold {
-    display: block;
-    margin-bottom: 10px;
-    font-weight:bold;
-    font-size: large;
-}
-
-#source-codeitalic {
-    display: block;
-    margin-bottom: 10px;
-    font-style:italic;
-    font-size: larger;
-}
-
-
-
-#nunito-sans{
-    display: block;
-    margin-bottom: 10px;
-} 
-
-#poppins{
-    display: block;
-    margin-bottom: 10px;
-} 
-
-
-
-#text-styles {
-    border: 3px solid blue;
-    margin-bottom: 10px;
-}
-
-
-
 #cool-blue {
     background-color: #2d5dcc;
     height: 100px;
     width: 400px;
     float: left;
-    margin-bottom: 20px;
-    
+    margin-bottom: 20px;  
 }
 
 #pink {
@@ -108,3 +53,86 @@
     width: 400px;
     clear: left;
 }
+
+
+#font-section {
+    margin: auto;
+    width:90%;
+    border: 3px solid blue;
+    padding: 30px;
+    margin-bottom:10px;
+}
+
+#font-section h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ #font-section1 {
+    float:left;
+} 
+
+#source-code{
+    display: block;
+    margin-bottom: 10px;
+    font-size: larger;
+}
+
+#source-codebold {
+    display: block;
+    margin-bottom: 10px;
+    font-weight:bold;
+    font-size: large;
+}
+
+#source-codeitalic {
+
+    margin-bottom: 10px;
+    font-style:italic;
+    font-size: larger;
+}
+
+#font-section2 {
+    float:left;
+    margin-left: 80px;
+}
+
+#nunito-sans{
+    display: block;
+    margin-bottom: 10px;
+    font-size: larger;
+} 
+
+#nunito-sansbold{
+    display: block;
+    margin-bottom: 10px;
+    font-weight:bold;
+    font-size: large;
+}
+
+#nunito-sansitalic{
+    font-style:italic;
+    font-size: larger;
+}
+
+#font-section3 {
+    margin-left: 10px;
+    margin-top: 30px;
+    clear: left;
+}
+
+
+
+
+
+
+#poppins{
+    display: block;
+    margin-bottom: 10px;
+} 
+
+#text-styles {
+    border: 3px solid blue;
+    margin-bottom: 10px;
+}
+
+
