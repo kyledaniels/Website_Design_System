@@ -1,5 +1,5 @@
 /* body {
-    background-color: antiquewhite;
+    background-color: grey;
 } */
 
 #heading{
@@ -29,6 +29,53 @@
     margin-bottom: 20px;  
 }
 
+#colors-section #cool-blue p {
+    text-align: center;
+    color: white;
+}
+
+#colors-section #cool-blue span {
+    display:block;
+    text-align: center;
+    color: white;
+}
+
+#colors-section #pink p {
+    text-align: center;
+    color: black;
+}
+
+#colors-section #pink span {
+    display:block;
+    text-align: center;
+    color: black;
+}
+
+#colors-section #mint-green p {
+    text-align: center;
+    color:black;
+}
+
+#colors-section #mint-green span {
+    display:block;
+    text-align: center;
+    color:black;
+}
+
+#colors-section #beige p {
+    text-align: center;
+    color: black;
+    padding-top: 20px;
+}
+
+#colors-section #beige span {
+    display:block;
+    text-align: center;
+    color:black;
+    
+}
+
+
 #pink {
     background-color: #d957d9;
     margin-left: 10px;
@@ -53,7 +100,6 @@
     width: 400px;
     clear: left;
 }
-
 
 #font-section {
     margin: auto;
@@ -129,7 +175,7 @@
 } 
 
 #poppinsbold {
-    
+
     display: block;
     margin-bottom: 10px;
     font-weight:bold;
@@ -144,8 +190,21 @@
 }
 
 #text-styles {
+    margin: auto;
+    width:90%;
     border: 3px solid blue;
-    margin-bottom: 10px;
+    padding: 30px;
+    margin-bottom:10px;
+}
+
+#text-styles h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main-headings h1 {
+    font-weight: 700(bold);
+    font-size: 26px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 
